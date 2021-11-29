@@ -1,4 +1,14 @@
 {
+  "name": "query-equivalence-service",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "Microservice that checks if two SPARQL queries are equivalent ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redpencilio/query-equivalence-service.git"
+  },
+  "author": "redpencil.io",
+  "license": "MIT",
   "dependencies": {
     "object-hash": "^2.2.0"
   }
