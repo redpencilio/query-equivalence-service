@@ -8,7 +8,6 @@
     "url": "git+https://github.com/redpencilio/query-equivalence-service.git"
   },
   "author": "redpencil.io",
-  "license": "MIT",
   "dependencies": {
     "object-hash": "^2.2.0"
   }
